@@ -1,4 +1,7 @@
 ### Hello, World! 👋
+
+<img src="https://github.com/tuhinchakraborty/tuhinchakraborty/blob/master/image.gif" alt="Boy Coding" width="50%" height="50%">
+
 - 👨🏾‍💻 Application Developer @ThoughtWorks
 - 🔭 Thinking in Kotlin & Java
 - 🌱 Learning JavaScript
