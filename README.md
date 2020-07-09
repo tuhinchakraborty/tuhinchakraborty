@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, World! 👋
+- 👨🏾‍💻 Application Developer @ThoughtWorks
+- 🔭 Thinking in Kotlin & Java
+- 🌱 Learning JavaScript
 
 <!--
 **tuhinchakraborty/tuhinchakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
